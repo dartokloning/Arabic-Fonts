@@ -1,4 +1,5 @@
 === Arabic Font ===
+
 Contributors: darto
 Tags: arabic, font, arabic text, shortcode
 Tested up to: 4.0
@@ -8,6 +9,7 @@ Requires at least: 3.0
 An easy way to stylish your Arabic font
 
 == Description ==
+
 I'm just newbie for programming but I love a lot of WordPress.
 
 My friend is lot write with Arabic language and I tried to find plugins that will easily to help him to write in his website which support for display with specific Arabic fonts, but I find none. So here I am. I tried to googling and combine all the code to make this plugin. And also the font that I included in this plugin is open source or legally to download from their website.
@@ -30,6 +32,7 @@ The plugin is just simple which we can transform the Arabic text to specific fon
 If you want to add Islamic date (Hijr) in your blog, you can try <a href="https://wordpress.org/plugins/penanggalan-hijriyah-masehi/">Penanggalan Hijriyah &amp Masehi</a>.
 
 == Installation ==
+
 Arabic Font plugin support to place your Arabic text in <code><span></code> or <code><div></code> and here complete configuration:
 
 [arabic-font font_family="JF Flat Jozoor" font_size="36" line_height="65" text_align="center" span="no"]???? ????? ?????[/arabic-font]
